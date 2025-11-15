@@ -1,0 +1,5 @@
+{
+  "name": "IELTS Writing Task 2 Trainer",
+  "description": "An application to help students practice for IELTS Writing Task 2 with timed sections for outlining, writing, and reviewing. It provides topics, vocabulary, grammar structures, and sample answers to guide the user.",
+  "requestFramePermissions": []
+}
